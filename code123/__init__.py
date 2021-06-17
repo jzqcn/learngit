@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+if __name__ == '__main__':
+    print('jzq 作为主程序运行')
+else:
+    print('导入包 jzq')
